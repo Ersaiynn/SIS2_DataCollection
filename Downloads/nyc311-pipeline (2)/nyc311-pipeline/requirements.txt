@@ -1,0 +1,7 @@
+requests
+kafka-python
+pandas
+pandera[pandas]
+numpy
+matplotlib
+seaborn
